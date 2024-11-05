@@ -1,6 +1,0 @@
-train: ../train/images
-val: ../test/images
-
-nc: 9
-names:
-  ["Hello", "Yes", "No", "Thanks", "IloveYou", "Please", "Mom", "Dad", "Love"]
